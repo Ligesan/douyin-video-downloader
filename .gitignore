@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.spec
+
+# PyInstaller
+build/
+dist/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 本地测试产物
+*.mp4
+*_report.txt
